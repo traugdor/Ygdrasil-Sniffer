@@ -1,4 +1,4 @@
-# Ygdrasil-Sniffer
+# Yggdrasil-Sniffer
 A simple program to interact with Mojang's new login server to aid in creating custom Minecraft launchers
 
 Requires Visual Studio 2012 or newer.
